@@ -1,0 +1,27 @@
+*5
+$3
+SET
+$4
+user
+$7
+Mohamed
+$3
+Ben
+$5
+Taher
+*3
+$3
+SET
+$4
+user
+$17
+Mohamed Ben Taher
+*4
+$4
+HSET
+$5
+users
+$6
+client
+$12
+karim Ahmadi
